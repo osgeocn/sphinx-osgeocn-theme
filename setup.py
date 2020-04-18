@@ -2,11 +2,11 @@ from setuptools import setup
 
 setup(
     name = 'sphinx-osgeocn-theme',
-    version = '0.1.0',
+    version = '0.1.3',
     author = 'OSGeo CN',
     author_email= '486936@qq.com',
     url="https://github.com/osgeocn/sphinx-osgeocn-theme",
-    docs_url="https://github.com/osgeocn/sphinx-osgeocn-theme/",
+    docs_url="https://github.com/osgeocn/sphinx-osgeocn-theme",
     description='Sphinx Bootstrap4 Theme of OSGeo China Chapter Documents',
     py_modules = ['sphinx_osgeocn_theme'],
     packages = ['themes'],

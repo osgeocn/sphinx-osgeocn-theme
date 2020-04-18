@@ -106,4 +106,3 @@ Upload to PyPI
    python3 setup.py sdist
    twine upload dist/torcms-{version}.tar.gz
 
-
